@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/7356cce7ca6b3643606fe.jpg">
+  <img src="https://telegra.ph/file/40e115c5750db57e501b8.jpg">
 </p>
 
 <h4><p align="center"> SIESTA ROBOT </p></h4>
