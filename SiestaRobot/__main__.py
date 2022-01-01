@@ -81,12 +81,15 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-*Hello {} !*
-✪ I'm an anime-theme management bot [✨](https://telegra.ph/file/b8fe73c5ad42d10d63f7b.jpg)
-────────────────────────
-× *Uptime:* `{}`
-× `{}` *users, across* `{}` *chats.*
-────────────────────────
+Hello! User,
+I am called 🔱 Poseidon ⚡
+➪ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴀᴅᴍɪɴ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴇxᴘʟᴏsɪᴠᴇ. [✨](https://telegra.ph/file/331b77d462c7730bb1888.jpg)
+┏━━━━━━━━━━━━━━━━━━━━━┓
+┃➪ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ Hᴀᴄᴋᴇʀ ғᴏʀ ᴀɴʏ 
+┃ǫᴜᴇʀʏ ᴀɴᴅ [✘👿⃝‌⃪⃕.🇲❍𝙉𝙎𝙏𝙀𝙍 ⚡](https://t.me/MON_ST_ER_OF_VB) ʜᴇʀᴇ.
+┃➪ ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ʜᴇʟᴘ ᴛᴏ ┃ᴇxᴘʟᴏʀᴇ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ ᴀɴᴅ ᴍʏ ┃ғᴇᴀᴛᴜʀᴇs.
+┗━━━━━━━━━━━━━━━━━━━━━┛
+➪ Pᴏᴡᴇʀᴇᴅ ʙʏ [Sᴛᴜxɴᴇᴛ Bᴏᴛᴢ 🤖](https://t.me/stuxnetBotz)
 ✪ Hit /help to see my available commands.
 """
 
