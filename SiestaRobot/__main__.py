@@ -246,7 +246,7 @@ def start(update: Update, context: CallbackContext):
     else:
         update.effective_message.reply_photo(
             GROUP_START_IMG, caption= f"<b>Poseidon will never die!</b>\n<b>Started working since:</b> <code>{uptime}</code>",
-            parse_mode=ParseMode.HTML
+
        
             ),
             
