@@ -126,7 +126,7 @@ I Use My Powers To Help Admins To Manage Their Groups!
 
 *Main* commands available :."""
 
-EMI_IMG = "https://telegra.ph/file/b8fe73c5ad42d10d63f7b.jpg"
+GROUP_START_IMG = "https://telegra.ph/file/185fb191d5c1dd236c717.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project by contacting @saint_foire \
@@ -244,8 +244,8 @@ def start(update: Update, context: CallbackContext):
                 disable_web_page_preview=False,
             )
     else:
-        update.effective_message.reply_text(
-            f"<b>Poseidon will never die!</b>\n<b>Started working since:</b> <code>{uptime}</code>",
+        update.effective_message.reply_photo(
+            GROUP_START_IMG, caption= f"<b>Poseidon will never die!</b>\n<b>Started working since:</b> <code>{uptime}</code>",
             parse_mode=ParseMode.HTML
        )
 
