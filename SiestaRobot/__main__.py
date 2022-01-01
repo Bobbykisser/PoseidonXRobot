@@ -245,27 +245,12 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_photo(
-            GROUP_START_IMG, caption= "<b>Poseidon will Never Die! Haven't alive since</b>: <code>{}</code>",format(
-            uptime
+            GROUP_START_IMG, caption= f"<b>Poseidon will never die!</b>\n<b>Started working since:</b> <code>{uptime}</code>",
+            parse_mode=ParseMode.HTML
        
-            ),
-            
-            parse_mode=ParseMode.HTML,
-            reply_markup=InlineKeyboardMarkup(
-                [
-                  [                  
-                       InlineKeyboardButton(
-                             text="Support✨",
-                             url=f"https://t.me/Stuxnet_1_official"),
-                       InlineKeyboardButton(
-                             text="Updates⚡",
-                             url="https://t.me/stuxnetBotz")
-                     ] 
-                ]
-            ),
-        )
+       (
 
-
+                             
 def error_handler(update, context):
     """Log the error and send a telegram message to notify the developer."""
     # Log the error before we do anything else, so we can see it even if something breaks.
