@@ -13,9 +13,9 @@ PHOTO = "https://telegra.ph/file/214f0710f6d583a88e474.jpg"
 
 @register(pattern=("/alive"))
 async def awake(event):
-  TEXT = f"**Hi [{event.sender.first_name}](tg://user?id={event.sender.id}), I'm Siesta Robot.** \n\n"
+  TEXT = f"**Hi [{event.sender.first_name}](tg://user?id={event.sender.id}), I'm Poseidon Robot.** \n\n"
   TEXT += "💠 **I'm Working Properly** \n\n"
-  TEXT += f"💠 **My Master : [Vain](https://t.me/saint_foire)** \n\n"
+  TEXT += f"💠 **My Master : [hacker](https://t.me/hmf_owner_1)** \n\n"
   TEXT += f"💠 **Library Version :** `{telever}` \n\n"
   TEXT += f"💠 **Telethon Version :** `{tlhver}` \n\n"
   TEXT += f"💠 **Pyrogram Version :** `{pyrover}` \n\n"
