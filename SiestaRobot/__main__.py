@@ -100,12 +100,12 @@ buttons = [
     [
         InlineKeyboardButton(text="Get Help", callback_data="help_back"),
         InlineKeyboardButton(
-            text="Try inline!​​", switch_inline_query_current_chat=""
+            tetext"Support", url="https://t.me/Voicebox1"),
         ),
     ],
     [
         InlineKeyboardButton(
-            text="➗ Add Siesta To Your Group ➗", url="t.me/Siestaxbot?startgroup=new"),
+            text="➗ Add Poseidon To Your Group ➗", url="t.me/PoseidonXRobot?startgroup=new"),
     ],
 ]
 
