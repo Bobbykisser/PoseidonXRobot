@@ -95,19 +95,28 @@ I am called 🔱 Poseidon ⚡
 
 buttons = [
     [
-        InlineKeyboardButton(text="About Siesta Robot", callback_data="siesta_"),
-    ],
-    [
-        InlineKeyboardButton(text="Get Help", callback_data="help_back"),
         InlineKeyboardButton(
-            text"Support", url="https://t.me/Voicebox1"),
-        ),
+                            text="Add Poseidon to your Kingdom",
+                            url="t.me/PoseidonXRobot?startgroup=true"),
+                    ],
+                   [
+                       InlineKeyboardButton(text="✨ Support", url="https://t.me/Stuxnet_1_official"),
+                       InlineKeyboardButton(text="📊 Network", url="t.me/Stuxnet_Network"),
+                       InlineKeyboardButton(text="🔔 Logs", url="t.me/stuxnet_logs"),
+                     ],
+                    [                  
+                       InlineKeyboardButton(
+                             text="👫 Voice Box",
+                             url=f"https://t.me/Voicebox1"),
+                       InlineKeyboardButton(
+                             text="⚡ Updates",
+                             url=f"https://t.me/stuxnetBotz"),
+                     ],
+                    [
+                    InlineKeyboardButton(text="🔐 Help 🔐", callback_data="help_back"
+         ),
     ],
-    [
-        InlineKeyboardButton(
-            text="➗ Add Poseidon To Your Group ➗", url="t.me/PoseidonXRobot?startgroup=new"),
-    ],
-]
+] 
 
 
 HELP_STRINGS = """
