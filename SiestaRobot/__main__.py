@@ -100,7 +100,7 @@ buttons = [
     [
         InlineKeyboardButton(text="Get Help", callback_data="help_back"),
         InlineKeyboardButton(
-            tetext"Support", url="https://t.me/Voicebox1"),
+            text"Support", url="https://t.me/Voicebox1"),
         ),
     ],
     [
