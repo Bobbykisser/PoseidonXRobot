@@ -111,7 +111,11 @@ buttons = [
 
 
 HELP_STRINGS = """
-Click on the button bellow to get description about specifics command."""
+ [Poseidon is here⚡](https://telegra.ph/file/9b9567f8d0bf6e8c13d46.jpg)
+
+I Use My Powers To Help Admins To Manage Their Groups! 
+
+*Main* commands available :."""
 
 EMI_IMG = "https://telegra.ph/file/b8fe73c5ad42d10d63f7b.jpg"
 
