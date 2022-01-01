@@ -111,7 +111,7 @@ buttons = [
 
 
 HELP_STRINGS = """
-Click on the button bellow to get description about specifics command.[.](https://telegra.ph/file/4a5b43eeccc82e4e1e7ab.jpg)
+Click on the button bellow to get description about specifics command.'''[.](https://telegra.ph/file/4a5b43eeccc82e4e1e7ab.jpg)
 
 EMI_IMG = "https://telegra.ph/file/b8fe73c5ad42d10d63f7b.jpg"
 
