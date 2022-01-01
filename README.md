@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/40e115c5750db57e501b8.jpg">
 </p>
 
-<h4><p align="center"> SIESTA ROBOT </p></h4>
+<h4><p align="center"> PoseidonXRobot </p></h4>
 
 <p align="center">Siesta Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
 
