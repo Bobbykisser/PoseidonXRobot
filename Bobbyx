@@ -102,7 +102,7 @@ buttons = [
     [
         InlineKeyboardButton(
                             text="Add Poseidon to your Kingdom",
-                            url="t.me/PoseidonXRobot?startgroup=true"),
+                            url="t.me/bobby_robot?startgroup=true"),
                     ],
                    [
                        InlineKeyboardButton(text="✨ Support", url="https://t.me/Stuxnet_1_official"),
